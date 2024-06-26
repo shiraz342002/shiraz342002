@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@shiraz342002" target="blank"><img src="https://img.shields.io/twitter/follow/@shiraz342002?logo=twitter&style=for-the-badge" alt="@shiraz342002" /></a> </p>
 
-- 🌱 I’m currently learning **Reacts Js**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shiraz342002?tab=repositories](https://github.com/shiraz342002?tab=repositories)
 
