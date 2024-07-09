@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiraz Mazhar</h1>
-<h3 align="center">I'm Shiraz a front-end enthusiast with a knack for making websites shine. From tinkering with code to bringing designs to life, I'm all about creating memorable user experiences that leave a lasting impression.</h3>
+<h3 align="center">I'm Shiraz, a full-stack developer with a passion for creating exceptional web experiences. From crafting front-end designs to building robust back-end solutions with the MERN stack and NestJS, I thrive on delivering memorable user interactions and seamless functionality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiraz342002&label=Profile%20views&color=0e75b6&style=flat" alt="shiraz342002" /> </p>
 
