@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiraz Mazhar</h1>
-<h3 align="center">I'm , a full-stack developer with a passion for creating exceptional web experiences. From crafting front-end designs to building robust back-end solutions with the MERN stack and NestJS, I thrive on delivering memorable user interactions and seamless functionality.erator is a web application designed to help users create secure, random passwords tailored to their needs. It offers a range of customization options, allowing users to select the desired length and complexity of their passwords. The application includes various features to enhance user experience, such as password strength indicators, clipboard copy functionality, and more. This project is ideal for anyone looking to quickly generate strong passwords for securing their online accounts and data.</h3>
+<h3 align="center">I'm a full-stack developer with a passion for creating exceptional web experiences. From crafting front-end designs to building robust back-end solutions with the MERN stack and NestJS, I thrive on delivering memorable user interactions and seamless functionality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiraz342002&label=Profile%20views&color=0e75b6&style=flat" alt="shiraz342002" /> </p>
 
